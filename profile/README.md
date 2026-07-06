@@ -4,4 +4,6 @@ A collection of projects based around a WASM port of the [Composer's Desktop Pro
 
 -> https://cdp-wasm-suite.github.io
 
+Source code incoming...
+
 Copyright Oliver Larkin 2026
