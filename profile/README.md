@@ -2,6 +2,8 @@
 
 A collection of projects based around a WASM port of the [Composer's Desktop Project](https://www.composersdesktop.com/)
 
+This ambitious project has largely been automated using agentic AI. YMMV! Please submit issues if you find any.
+
 [cdp-wasm on NPM](https://www.npmjs.com/package/cdp-wasm)
 
 usage via node:
