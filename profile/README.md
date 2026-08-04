@@ -4,9 +4,7 @@ A collection of projects based around a WASM port of the [Composer's Desktop Pro
 
 This work has largely been automated using agentic AI - so YMMV. It's still WIP. Please submit issues if you find any.
 
-The main motivation is that offline audio processing and especially CLI tools are very interesting to control via natural language with LLMs.
-
-Via WASM and a virtual file system, the CDP can be ideal for **agentic** sound design.
+The main motivation is that offline audio processing and especially CLI tools are very interesting to control via natural language with LLMs. With a thin javascript orchestration layer and a virtual file system, the CDP can be ideal for **agentic** sound design.
 
 **Use it on the command line via node or compatible JavaScript runtime [see cdp-wasm on NPM](https://www.npmjs.com/package/cdp-wasm)**
 
