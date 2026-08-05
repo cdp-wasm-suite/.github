@@ -1,6 +1,6 @@
 # CDP-WASM-SUITE
 
-A collection of projects based around a WASM port of the [Composer's Desktop Project](https://www.composersdesktop.com/)
+A collection of projects based around a WASM port of the [Composer's Desktop Project](https://www.composersdesktop.com/) - using the latest web technologies to bring a new lease of life to 40 year old software.
 
 This work has largely been automated using agentic AI - so YMMV. It's still WIP. Please submit issues if you find any.
 
@@ -15,7 +15,9 @@ cdp modify speed 2 in.wav out.wav -12
 
 **Or use the [agent-skills](https://github.com/cdp-wasm-suite/cdp-wasm/#agent-skills-and-plugins) to control it from claude, codex etc.**
 
-**Or use the cdp-web ui, in the browser, on a mobile device, in an audio plugin, or in a DAW Extension.**
+**Or use the [cdp-web](https://cdp-web.app) (a [pwa](https://web.dev/explore/progressive-web-apps)), in the browser, on a mobile device (you can save it to your homescreen)**
+
+**Or the same UI frontend in an audio plugin, or in a DAW Extension.**
 
 <img width="636" height="372" alt="gem" src="https://cdp-wasm-suite.github.io/shots/patch-gem.png" />
 
