@@ -13,11 +13,11 @@ npm i -g cdp-wasm
 cdp modify speed 2 in.wav out.wav -12
 ```
 
-**Or use the [agent-skills](https://github.com/cdp-wasm-suite/cdp-wasm/#agent-skills-and-plugins) to control it from claude, codex etc.**
+* Or use the [agent-skills](https://github.com/cdp-wasm-suite/cdp-wasm/#agent-skills-and-plugins) to control it from claude, codex etc.
 
-**Or use the [cdp-web](https://cdp-web.app) (a [pwa](https://web.dev/explore/progressive-web-apps)), in the browser, on a mobile device (you can save it to your homescreen)**
+* Or use the [cdp-web](https://cdp-web.app) (a [pwa](https://web.dev/explore/progressive-web-apps)), in the browser, on a mobile device (you can save it to your homescreen)
 
-**Or the same UI frontend in an audio plugin, or in a DAW Extension.**
+* Or the same UI frontend in an [audio plugin](https://github.com/cdp-wasm-suite/cdp-plugin/releases/tag/latest), or in a [DAW Extension](https://github.com/cdp-wasm-suite/cdp-extension/releases/tag/latest).
 
 <img width="636" height="372" alt="gem" src="https://cdp-wasm-suite.github.io/shots/patch-gem.png" />
 
