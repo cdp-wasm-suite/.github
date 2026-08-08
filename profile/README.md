@@ -6,18 +6,20 @@ This work has largely been automated using agentic AI - so YMMV. It's still WIP.
 
 The main motivation is that offline audio processing and especially CLI tools are very interesting to control via natural language with LLMs. With a thin javascript orchestration layer and a virtual file system, the CDP can be ideal for **agentic** sound design.
 
-**Use it on the command line via node or compatible JavaScript runtime [see cdp-wasm on NPM](https://www.npmjs.com/package/cdp-wasm)**
+**You can use cdp-wasm on the command line via node or compatible JavaScript runtime [see cdp-wasm on NPM](https://www.npmjs.com/package/cdp-wasm)**
 
 ```
 npm i -g cdp-wasm
 cdp modify speed 2 in.wav out.wav -12
 ```
 
-* Or use the [agent-skills](https://github.com/cdp-wasm-suite/cdp-wasm/#agent-skills-and-plugins) to control it from claude, codex etc.
+This is much like using the original CDP.
 
-* Or use the [cdp-web](https://cdp-web.app) (a [pwa](https://web.dev/explore/progressive-web-apps)), in the browser, on a mobile device (you can save it to your homescreen)
+* You can also use the [agent-skills](https://github.com/cdp-wasm-suite/cdp-wasm/#agent-skills-and-plugins) to control it from claude, codex etc.
 
-* Or the same UI frontend in an [audio plugin](https://github.com/cdp-wasm-suite/cdp-plugin/releases/tag/latest), or in a [DAW Extension](https://github.com/cdp-wasm-suite/cdp-extension/releases/tag/latest).
+* If you prefer a UI [cdp-web](https://cdp-web.app) is a web based front end and web app, which you can use in the browser. It's a [pwa](https://web.dev/explore/progressive-web-apps) so you can also install it to your desktop or your homescreen on mobile.
+
+* The same UI frontend is used in the [audio plugin](https://github.com/cdp-wasm-suite/cdp-plugin/releases/tag/latest), and the [DAW Extension](https://github.com/cdp-wasm-suite/cdp-extension/releases/tag/latest).
 
 <img width="636" height="372" alt="gem" src="https://cdp-wasm-suite.github.io/shots/patch-gem.png" />
 
