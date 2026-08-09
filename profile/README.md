@@ -6,7 +6,7 @@ This work has largely been automated using agentic AI - so YMMV. It's still WIP.
 
 The main motivation is that offline audio processing and especially CLI tools are very interesting to control via natural language with LLMs. With a thin javascript orchestration layer and a virtual file system, the CDP can be ideal for **agentic** sound design.
 
-**You can use cdp-wasm on the command line via node or compatible JavaScript runtime see [cdp-wasm](https://www.npmjs.com/package/cdp-wasm)** on npm.js.
+**You can use [cdp-wasm](https://github.com/cdp-wasm-suite/cdp-wasm) on the command line via node or compatible JavaScript runtime see [the cdp-wasm npm package](https://www.npmjs.com/package/cdp-wasm)** on npm.js.
 
 ```
 npm i -g cdp-wasm
