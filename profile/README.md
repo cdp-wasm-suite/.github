@@ -9,7 +9,7 @@ The main motivation is that offline audio processing and especially CLI tools ar
 You can use [cdp-wasm](https://github.com/cdp-wasm-suite/cdp-wasm) on the command line via node or compatible JavaScript runtime see the [npm package](https://www.npmjs.com/package/cdp-wasm) on npm.js.
 
 ```bash
-// install cdp globally
+// install cdp-wasm globally
 npm i -g cdp-wasm
 
 // use the cdp modify program - speed mode 2 to transpose in.wav down 12 semitones
