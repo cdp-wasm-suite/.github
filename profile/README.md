@@ -16,9 +16,9 @@ npm i -g cdp-wasm
 cdp modify speed 2 in.wav out.wav -12
 ```
 
-This is much like using the original CDP (see [docs](https://www.composersdesktop.com/docs/html/cgromody.htm#SPEED))
+This is much like using the original CDP (where you must cross-reference the [docs](https://www.composersdesktop.com/docs/html/cgromody.htm#SPEED) to get the command correct)
 
-Remembering all those arguments is challenging, and when multiple programs are involved CDP can be very laborious to use like this. Many people use a frontend instead.
+Remembering all those arguments is challenging, and when multiple programs are involved CDP can be very laborious to use like this. Many people use a [UI frontend](https://www.composersdesktop.com/interfaces.html) instead.
 
 In cdp-wasm the javascript layer adds a curated catalog on top of the CDP programs that surfaces subprograms of CDP as ready-to-use effects and generators — each with curated parameters, ranges and defaults — and hides the multi-step plumbing (pvoc round-trips, mixfile chains, channel conforming).
 
