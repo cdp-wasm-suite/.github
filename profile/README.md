@@ -23,7 +23,6 @@ Remembering all those arguments is challenging, and when multiple programs are i
 In cdp-wasm the javascript layer adds a curated catalog on top of the CDP programs that surfaces subprograms of CDP as ready-to-use effects and generators — each with curated parameters, ranges and defaults — and hides the multi-step plumbing (pvoc round-trips, mixfile chains, channel conforming).
 
 ```js
-import { readFile, writeFile } from 'node:fs/promises';
 import { CDP, EFFECTS, applyEffect } from 'cdp-wasm';
 
 const cdp = new CDP();
