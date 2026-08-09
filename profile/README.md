@@ -38,10 +38,10 @@ If you prefer a UI, [cdp-web](https://cdp-web.app) is a web based frontend, whic
 
 The same UI frontend is used in the [audio plugin](https://github.com/cdp-wasm-suite/cdp-plugin/releases/tag/latest), and the [DAW Extension](https://github.com/cdp-wasm-suite/cdp-extension/releases/tag/latest).
 
-This work has largely been automated using agentic AI - so YMMV. It's still WIP. Please submit issues if you find any.
+This laborious work has largely been automated using agentic AI - so YMMV - there will be mistakes, bugs and sloppy bits. It's still WIP, being de-sloppified. Please submit issues if you find any.
 
 For more info visit the [main website](https://cdp-wasm-suite.github.io).
 
 Enjoy!
 
-[Oli Larkin](https://olilarkin.com/)
+Oli Larkin, Berlin, 2026.
