@@ -1,6 +1,6 @@
 # CDP-WASM-SUITE
 
-A collection of projects based around a WASM port of the [Composer's Desktop Project](https://www.composersdesktop.com/) - using the latest web technologies to bring a new lease of life to 40 year old software.
+A collection of projects based around a WASM port of the [Composer's Desktop Project](https://www.composersdesktop.com/) - using the latest web technologies to bring a new lease of life to 40 year old software - (hopefully) making it more easily accessible and fun to use.
 
 This work has largely been automated using agentic AI - so YMMV. It's still WIP. Please submit issues if you find any.
 
